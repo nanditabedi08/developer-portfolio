@@ -22,7 +22,7 @@
 
 - Profile URL : https://www.freecodecamp.org/nanditabedi08
 - Current track : Responsive Web Design
-- Steps completed : 19 (Cat Photo App) / approx. 300 hours for full certification
+- Steps completed : - Steps completed : Cat Photo App (19 steps), Cafe Menu not started
 
 ---
 
