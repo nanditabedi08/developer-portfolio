@@ -8,7 +8,9 @@
 
 - Profile URL : https://www.hackerrank.com/profile/h2601201048
 - Problems solved : 0 (in progress: Say Hello, Python If-Else, Arithmetic Operators)
-- Skill test taken : Python (Basic) - not taken yet
+- Python: Division
+- Loops
+- Python (Basic) certificate : Attempted, not passed yet. Retake planned.
 - Certificate : Pending
 
 ## LeetCode
