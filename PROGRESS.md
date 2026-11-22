@@ -22,7 +22,7 @@
 
 - Profile URL : https://www.freecodecamp.org/nanditabedi08
 - Current track : Responsive Web Design
--- Steps completed : Cat Photo App (19 steps), Cafe Menu (10 steps)
+-- Steps completed : Cat Photo App (18 steps), Cafe Menu (10 steps)
 ---
 
 ## Weekly Goals (update every Monday)
