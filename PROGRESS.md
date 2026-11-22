@@ -34,10 +34,9 @@
 Week of 22 November 2026:
 
 - [ ] 3 HackerRank Python problems
--[ ] 1 LeetCode Easy problem
+- [ ] 1 LeetCode Easy problem
 - [ ] Retake HackerRank Python (Basic) test
 - [ ] Revise strings and loops
-
 ---
 
 ## Monthly Milestones
