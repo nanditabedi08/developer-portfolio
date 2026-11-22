@@ -31,11 +31,12 @@
 
 ## Weekly Goals (update every Monday)
 
-Week of 19 November 2026:
+Week of 22 November 2026:
 
-[ ] 3 HackerRank Python problems
-[ ] 1 LeetCode Easy problem
-[ ] 10 freeCodeCamp steps
+- [ ] 3 HackerRank Python problems
+-[ ] 1 LeetCode Easy problem
+- [ ] Retake HackerRank Python (Basic) test
+- [ ] Revise strings and loops
 
 ---
 
